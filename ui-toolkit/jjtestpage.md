@@ -12,11 +12,10 @@ category: UI toolkit
 ![Screen Shot 2016-05-10 at 9.31.52 AM.png]({{site.baseurl}}/static/img/Screen Shot 2016-05-10 at 9.31.52 AM.png)
 </div>
 
----
 |Column 1|Column 2|Column 3|
 ---|---|---
 |blah|blah blah|test|
----
+
 
 ## JJ Test Page
 
