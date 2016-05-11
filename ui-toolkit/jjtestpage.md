@@ -1,4 +1,6 @@
+---
 layout: page
+title: JJ Test Page
 category: UI toolkit
 ---
 
