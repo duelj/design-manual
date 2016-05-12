@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Landing page
+title: Document detail
 category: UI toolkit
 published: true
 ---
