@@ -62,13 +62,11 @@ published: true
 <p>At breakpoints 900 and below, the sidebar stacks below the main content area as shown. </p>
 
 <div class="content-67 content-first">
-
 #### Breakpoints 901+
 ![landing_behavior_desktop_2x.png]({{site.baseurl}}/static/img/landing_behavior_desktop_2x.png)
 </div>
 
 <div class="content-33 content-last">
-
 #### Breakpoints 900 and less
 ![landing_behavior_mobile_2x.png]({{site.baseurl}}/static/img/landing_behavior_mobile_2x.png)
 </div>
@@ -95,8 +93,3 @@ published: true
 * Description beneath heading should also be succint, roughly ______ characters.
 * Call to action link should  ______ characters or less.
 * Full width body copy is not an option in this template as content should be focused on skimming and navigating.
-
-
-
-
-
