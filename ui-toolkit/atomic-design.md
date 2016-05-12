@@ -33,11 +33,11 @@ Consumerfinance.gov is built using atomic design elements, which are integrated 
 
 <h2 id="atomic-elements">Atomic Elements</h2>
 
-<div class="content-50 content-first">
-####Atoms
+<div class="content-33 content-first">
+#### Atoms
 <p>Atoms are the smallest and most basic building blocks of our web interfaces. Atoms could be text headings, a form label, an input or a button. These small blocks are combined to make molecules which serve as larger functional components on a page.</p>
 </div>
 
-<div class="content-50 content-last">
+<div class="content-67 content-last">
 ![atoms_1.png]({{site.baseurl}}/static/img/atoms_1.png)
 </div>
