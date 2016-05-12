@@ -57,4 +57,43 @@ published: true
 [Emain signup]()
 </div>
 
+<h2 id="behavior">Behavior</h2>
+
+<p>At breakpoints 900 and below, the sidebar stacks below the main content area as shown. </p>
+
+<div class="content-67 content-first">
+
+#### Breakpoints 901+
+![landing_behavior_desktop_2x.png]({{site.baseurl}}/static/img/landing_behavior_desktop_2x.png)
+</div>
+
+<div class="content-33 content-last">
+
+#### Breakpoints 900 and less
+![landing_behavior_mobile_2x.png]({{site.baseurl}}/static/img/landing_behavior_mobile_2x.png)
+</div>
+
+<h2 id="style">Style</h2>
+
+#### Top of the page (1a or 1b)
+* Template requires one of two options for the top of the page: either a hero (1a) or using a text introduction (1b). With a [text introduction](), the sidebar takes the full length of the page. 
+
+#### Main content area (2)
+* This area must contain at least one page component, but we have no default preference as to which one(s). 
+* Recommended hierarchy of components from top of the page down, is [image & text]() components, [gray well](), and [half width link blobs](). 
+* [Gray well]() component should not be used as the top item within this area of the page, if the top of the page contains a hero.
+
+#### Sidebar (3)
+* This area must contain at least one page component, but we have no default preference as to which one(s). 
+* If using both static and dynamic content, preference for dynamic content to appear first.
+
+<h2 id="content-guidelines">Content Guidelines</h2>
+* Headings should be as succinct as possible, ideally ______ characters  or less.
+* Description beneath heading should also be succint, roughly ______ characters.
+* Call to action link should  ______ characters or less.
+* Full width body copy is not an option in this template as content should be focused on skimming and navigating.
+
+
+
+
 
