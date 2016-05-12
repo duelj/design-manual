@@ -13,8 +13,7 @@ Atomic design is methodology created by [Brad Frost](http://bradfrost.com/) for 
 {: class="lead-in"}
 
 <h2 id="use">Use</h2>
-
-<p>These priciplas were lifted from Brad Frost’s book on atomic design. For more information see his [GitHub repository](). 
+These priciplas were lifted from Brad Frost’s book on atomic design. For more information see his [GitHub repository](). 
 * They **promote consistency** and cohesion across the entire experience.
 * They **speed up your team's workflow**, saving time and money.
 * They establish a **more collaborative workflow** between all disciplines involved in a project.
@@ -22,9 +21,8 @@ Atomic design is methodology created by [Brad Frost](http://bradfrost.com/) for 
 * They provide **helpful documentation to help educate** stakeholders, colleagues, and even third parties.
 * They **make cross-browser/device, performance, and accessibility testing easier**.
 * They serve as a **future-friendly foundation** for teams to modify, extend, and improve upon over time.
-</p>
 
-###When to use
+### When to use
 Consumerfinance.gov is built using atomic design elements, which are integrated into both the front end as well as the CMS. If the project is going to live on consumerfinance.gov atomic design elements should be used as the foundation to build from. This promotes consistency and speeds up the workflow when building new pages.
 
 
