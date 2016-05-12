@@ -13,7 +13,8 @@ Atomic design is methodology created by [Brad Frost](http://bradfrost.com/) for 
 {: class="lead-in"}
 
 <h2 id="use">Use</h2>
-These priciplas were lifted from Brad Frost’s book on atomic design. For more information see his [GitHub repository](). 
+<p>These priciplas were lifted from Brad Frost’s book on atomic design. For more information see his [GitHub repository]().</p>
+
 * They **promote consistency** and cohesion across the entire experience.
 * They **speed up your team's workflow**, saving time and money.
 * They establish a **more collaborative workflow** between all disciplines involved in a project.
