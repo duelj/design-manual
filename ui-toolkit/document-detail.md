@@ -70,6 +70,7 @@ published: true
 
 ####Breakpoints 900 and less
 ![docdetail_behavior_mobile.png]({{site.baseurl}}/static/img/docdetail_behavior_mobile.png)
+</div>
 
 ### Post Preview
 
