@@ -42,6 +42,7 @@ Consumerfinance.gov is built using atomic design elements, which are integrated 
 ![atoms_1.png]({{site.baseurl}}/static/img/atoms_1.png)
 </div>
 
+
 <div class="content-33 content-first">
 #### Molecules
 <p>Molecules are groups of atoms bonded together and are the smallest fundamental units of a compound. These molecules take on their own properties and serve as the backbone of our design systems.</p>
@@ -51,6 +52,7 @@ Consumerfinance.gov is built using atomic design elements, which are integrated 
 ![molecules_2.png]({{site.baseurl}}/static/img/molecules_2.png)
 </div>
 
+
 <div class="content-33 content-first">
 #### Organisms
 <p>Organisms are groups of molecules joined together to form a relatively complex, distinct section of an interface. Organisms may be the repetition of one molecule type repeated, or a collection of unique molecules.</p>
@@ -59,6 +61,7 @@ Consumerfinance.gov is built using atomic design elements, which are integrated 
 <div class="content-67 content-last">
 ![organisms_1.png]({{site.baseurl}}/static/img/organisms_1.png)
 </div>
+
 
 <div class="content-33 content-first">
 #### Templates
