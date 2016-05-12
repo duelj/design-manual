@@ -11,11 +11,11 @@ published: true
 - [Style](#style)
 - [Content guidelines](#content-guidelines)
  {: class="toc"}
-​
+
 <p>Overview of landing page template at 901 screen width or larger.</p>
 
 <div class="content-50 content-first">
-![2016-05-12-your-filename.md]({{site.baseurl}}/static/2016-05-12-your-filename.md)
+![docdetail_top_example.png]({{site.baseurl}}/static/img/docdetail_top_example.png)
 </div>
 
 <h2 id="use">Use</h2>
