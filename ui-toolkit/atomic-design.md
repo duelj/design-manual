@@ -54,6 +54,7 @@ Consumerfinance.gov is built using atomic design elements, which are integrated 
 <div class="content-33 content-first">
 #### Organisms
 <p>Organisms are groups of molecules joined together to form a relatively complex, distinct section of an interface. Organisms may be the repetition of one molecule type repeated, or a collection of unique molecules.</p>
+</div>
 
 <div class="content-67 content-last">
 ![organisms_1.png]({{site.baseurl}}/static/img/organisms_1.png)
