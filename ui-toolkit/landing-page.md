@@ -33,16 +33,24 @@ published: true
 
 <div class="content-33 content-last">
 ##### Page components included
+
 #### Area 1
 [Hero]()
+
 [Text introduction]()
+
 #### Area 2
 [50/50 image & text]()
+
 [25/75 image & text]()
+
 [Half width link blob]()
+
 [Gray well]()
+
 #### Area 3
 [Related posts / Related links]()
+
 [Emain signup]()
 </div>
 
