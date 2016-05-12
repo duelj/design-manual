@@ -113,19 +113,27 @@ published: true
 
 
 <div class="content-50 content-first">
-1) **Category label (required)** - minicon, H4 (up to 2)
-2) **Date (required)** - H5 Grey #75797C
-3) Image (thumbnail) - Basic image style 30px padding
-4) Event date icon - unique dynamic icon 15px padding
-5) Post title (required) - H3
+1. **Category label (required)** - minicon, H4 (up to 2)
+
+2. **Date (required)** - H5 Grey #75797C
+
+3. Image (thumbnail) - Basic image style 30px padding
+
+4. Event date icon - unique dynamic icon 15px padding
+
+5. Post title (required) - H3
 </div>
 
 <div class="content-50 content-last">
-6) Sub-heading - H6
-7) **Description (required)** - Avenir paragraph 16px
-8) Author label - Avenir paragraph
-9) Link - Hyperlink
-10) Topics tags - H6 Grey #75797C, 80% gold #FAAF4C dotted underline and round bullet
+6. Sub-heading - H6
+
+7. **Description (required)** - Avenir paragraph 16px
+
+8. Author label - Avenir paragraph
+
+9. Link - Hyperlink
+
+10. Topics tags - H6 Grey #75797C, 80% gold #FAAF4C dotted underline and round bullet
 </div>
 
 
