@@ -1,3 +1,8 @@
+layout: page
+category: UI toolkit
+
+---
+
 - [Use](#use)
 - [Behavior](#behavior)
 - [Style](#style)
