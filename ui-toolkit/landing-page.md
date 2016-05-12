@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atomic Design
+title: Landing page
 category: UI toolkit
 published: true
 ---
