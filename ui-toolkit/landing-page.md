@@ -87,7 +87,10 @@ published: true
 * This area must contain at least one page component, but we have no default preference as to which one(s). 
 * If using both static and dynamic content, preference for dynamic content to appear first.
 
+
+
 <h2 id="content-guidelines">Content Guidelines</h2>
+
 * Headings should be as succinct as possible, ideally ______ characters  or less.
 * Description beneath heading should also be succint, roughly ______ characters.
 * Call to action link should  ______ characters or less.
