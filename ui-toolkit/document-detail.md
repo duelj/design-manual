@@ -108,7 +108,7 @@ published: true
 #### Possible metadata inputs shown
 
 <nomarkdown>
-<img src="({{site.baseurl}}/static/img/post_style.png)" alt="post preview inputs" height="100%" width="100%">
+<img src="{{site.baseurl}}/static/img/post_style.pn)" alt="post preview inputs" height="100%" width="100%">
 </nomarkdown>
 
 
