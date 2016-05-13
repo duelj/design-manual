@@ -51,3 +51,75 @@ published: true
 
 </div>
 
+
+
+<div class="content-67 content-first">
+### Media
+
+#### When to use
+* When an image is needed in the context of a passage of text
+* On a blog or article page when more images are needed that the featured image
+
+#### When to use something
+* When a single video is being featured on a page
+* When multiple columns or a grid of images are needed
+
+</div>
+
+<div class="content-33 content-last">
+##### Templates used on
+
+[Landing page]()
+
+[Sub-landing page]()
+
+[Browse page]()
+
+[Learn page]()
+
+[Document detail page]()
+
+</div>
+
+
+<div class="content-67 content-first">
+### Inset
+
+#### When to use
+* When ancillary information is needed in context of flowing text, such as quotes, call to action, related links, etc. 
+* This molecule is used to display related metadata in the sidebar for rules, notices, etc.
+
+#### When to use something else
+* When anything other than metada for a document detail page is being displayed.
+
+</div>
+
+
+<div class="content-33 content-last">
+##### Templates used on
+
+
+[Document detail page]()
+
+</div>
+
+
+<h2 id="behavior">Behavior</h2>
+### Content & media
+<p>Content and media elements that are  fullwidth at desktop size remain full width across all breakpoints. However, heading, link, and buttons all follow responsive patterns.  </p>
+
+<div class="content-50 content-first">
+#### Sidebar 901+
+![behavior_content_desktop.png]({{site.baseurl}}/static/img/behavior_content_desktop.png)
+</div>
+
+<div class="content-50 content-last">
+#### Sidebar less than 600
+![behavior_content_mobile.png]({{site.baseurl}}/static/img/behavior_content_mobile.png)
+</div>
+
+### Inset
+<p>All variations of inset elements move into full width format at screen widths less than 600px as seen below.</p>
+
+<div class="content-50 content-first">
+#### Sidebar > 800px
