@@ -40,4 +40,17 @@ published: true
 </div>
 
 <h2 id="behavior">Behavior</h2>
+<p>Filters live in an exapandable style element to allow for controls hidden when not in use/needed. The filter controls follow form patterns for grouping, layout, and messaging.
+Filters live in an expandable molecule Filter should be maximum of three columns wide with, and should stack as needed for smaller screen sizes. Notification messaging follows the filter control expandable, this way it always precedes the list of results.</p>
 
+<div class="content-50 content-first">
+#### Breakpoints 601+ (2-3 column)
+![filter_behavior_desktop.png]({{site.baseurl}}/static/img/filter_behavior_desktop.png)
+</div>
+
+<div class="content-50 content-last">
+#### Breakpoints 600 and less (1 column stacked)
+![filter_behavior_mobile.png]({{site.baseurl}}/static/img/filter_behavior_mobile.png)
+</div>
+
+<h2 id="style">Style</h2>
