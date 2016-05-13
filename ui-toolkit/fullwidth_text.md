@@ -143,6 +143,17 @@ published: true
 * Side padding is removed  so element is flush left and right
 * Top and bottom padding remains 30px
 
+<nomarkdown>
+<img src="{{site.baseurl}}/static/img/style_inset.png)" alt="inset style" height="100%" width="100%">
+</nomarkdown>
 
+### Inset 
+* All inset elements are 270px wide
+* 30px of padding until the 600px breakoint. 
+* They should be right aligned to the main content area. 
+* Inset has no top rule of it’s own but relies on the module that it contains to dictate whether a top rule is shown
+* Molecules in the inset should follow pre footer styling below 600px
 
+<h2 id="content-guidelines">Content Guidelines</h2>
 
+* Content guidelines will be dependent on the type of content the is inserted into the content area. See individual component guidelines for specifics.
