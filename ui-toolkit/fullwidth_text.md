@@ -144,7 +144,7 @@ published: true
 * Top and bottom padding remains 30px
 
 <nomarkdown>
-<img src="{{site.baseurl}}/static/img/style_inset.png)" alt="inset style" height="100%" width="100%">
+<img src="{{site.baseurl}}/static/img/style_inset.png" alt="inset style" height="100%" width="100%">
 </nomarkdown>
 
 ### Inset 
