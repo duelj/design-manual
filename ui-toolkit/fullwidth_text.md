@@ -15,6 +15,10 @@ published: true
 
 |Content|Media|Inset content|
 ---|---|---
-|![content_quote_example.png]({{site.baseurl}}/static/img/content_quote_example.png)|![content_quote_example.png]({{site.baseurl}}/static/img/content_quote_example.png)|![content_quote_example.png]({{site.baseurl}}/static/img/content_quote_example.png)|
+|![content_quote_example.png]({{site.baseurl}}/static/img/content_quote_example.png)|![content_media_example.png]({{site.baseurl}}/static/img/content_media_example.png)|![content_inset_example.png]({{site.baseurl}}/static/img/content_inset_example.png)|
+
+
+
+
 
 
