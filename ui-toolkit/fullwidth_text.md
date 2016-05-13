@@ -105,6 +105,7 @@ published: true
 
 
 <h2 id="behavior">Behavior</h2>
+
 ### Content & media
 <p>Content and media elements that are  fullwidth at desktop size remain full width across all breakpoints. However, heading, link, and buttons all follow responsive patterns.  </p>
 
@@ -122,4 +123,26 @@ published: true
 <p>All variations of inset elements move into full width format at screen widths less than 600px as seen below.</p>
 
 <div class="content-50 content-first">
-#### Sidebar > 800px
+#### Sidebar 601+
+![behavior_inset_desktop.png]({{site.baseurl}}/static/img/behavior_inset_desktop.png)
+</div>
+
+<div class="content-50 content-last">
+#### Sidebar less than 600
+![behavior_inset_mobile.png]({{site.baseurl}}/static/img/behavior_inset_mobile.png)
+</div>
+
+<h2 id="style">Style</h2>
+
+<nomarkdown>
+<img src="{{site.baseurl}}/static/img/style_contentmedia.png" alt="content and media style" height="100%" width="100%">
+</nomarkdown>
+
+### Content and media
+* Insets change to this fomat below 600px viewports 
+* Side padding is removed  so element is flush left and right
+* Top and bottom padding remains 30px
+
+
+
+
