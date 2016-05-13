@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atomic Design
+title: Full width text
 category: UI toolkit
 published: true
 ---
