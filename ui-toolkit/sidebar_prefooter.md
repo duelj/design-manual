@@ -1,3 +1,10 @@
+---
+layout: page
+title: Atomic Design
+category: UI toolkit
+published: true
+---
+
 - [Use](#use)
 - [Behavior](#behavior)
 - [Style](#style)
