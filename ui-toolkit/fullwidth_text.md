@@ -138,6 +138,7 @@ published: true
 <img src="{{site.baseurl}}/static/img/style_contentmedia.png" alt="content and media style" height="100%" width="100%">
 </nomarkdown>
 
+
 ### Content and media
 * Insets change to this fomat below 600px viewports 
 * Side padding is removed  so element is flush left and right
@@ -146,6 +147,7 @@ published: true
 <nomarkdown>
 <img src="{{site.baseurl}}/static/img/style_inset.png" alt="inset style" height="100%" width="100%">
 </nomarkdown>
+
 
 ### Inset 
 * All inset elements are 270px wide
