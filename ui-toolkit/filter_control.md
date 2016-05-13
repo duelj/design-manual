@@ -59,13 +59,16 @@ Filters live in an expandable molecule Filter should be maximum of three columns
 <img src="{{site.baseurl}}/static/img/filter_style_1.png" alt="filter style" height="100%" width="100%">
 </nomarkdown>
 
+
 * On page load filter is collapsed
 * After filter is applied it remains open, except for mobile breakpoint (< 600px) where is is collapsed after filtering to make vertical space for the notification to be viewed on screen.
 * Notification messaging sits below filter and above results
 
+
 <nomarkdown>
 <img src="{{site.baseurl}}/static/img/notifications_style.png" alt="filter notifications style" height="100%" width="100%">
 </nomarkdown>
+
 
 <h2 id="content-guidelines">Content Guidelines</h2>
 
