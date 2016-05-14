@@ -105,3 +105,38 @@ The pre-footer is an alternate format to accomodate different page templates and
 
 <h2 id="behavior">Behavior</h2>
 
+<p>All variations of sidebar element move into prefooter format at screen widths less than 800px. Sidebar can house multiple sidebar elements.</p>
+
+<div class="content-50 content-first">
+
+#### Sidebar 901+
+
+![behavior_sidebar_desktop.png]({{site.baseurl}}/static/img/behavior_sidebar_desktop.png)
+</div>
+
+<div class="content-50 content-last">
+
+#### Sidebar 900 or less (transition to prefooter)
+
+![behavior_sidebar_mobile.png]({{site.baseurl}}/static/img/behavior_sidebar_mobile.png)
+</div>
+
+* All variations of sidebar element move into prefooter format at screen widths less than 800px. Sidebar can house multiple sidebar elements.
+* Pre-footer format is used on pages that have a secondary navigation, they handle content that would typically be in a sidebar.  
+* Both sidebar and prefooter have the same mobile handling. For legibility, clickable title headers remain in the standard format on small screens. However, touch friendly link style used where possbile.
+
+<div class="content-50 content-first">
+
+#### Preftooer 901+ (with side nav.)
+![behavior_prefooter_desktop.png]({{site.baseurl}}/static/img/behavior_prefooter_desktop.png)
+</div>
+
+<div class="content-50 content-last">
+
+#### Prefooter 600 or less
+![behavior_prefooter_mobile.png]({{site.baseurl}}/static/img/behavior_prefooter_mobile.png)
+</div>
+
+<h2 id="style">Style</h2>
+
+
