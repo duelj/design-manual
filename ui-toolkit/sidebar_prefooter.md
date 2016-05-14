@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atomic Design
+title: "ui-toolkit/sidebar_prefooter.md"
 category: UI toolkit
 published: true
 ---
