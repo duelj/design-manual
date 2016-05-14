@@ -16,3 +16,12 @@ The pre-footer is an alternate format to accomodate different page templates and
 
 <p>Layout variations as seen in sidebar format at the 901px and larger breakpoints.</p>
 
+|Realted posts|Related links|Metadata|
+---|---|---
+|![related_posts_example.png]({{site.baseurl}}/static/img/related_posts_example.png)|![related_links_example.png]({{site.baseurl}}/static/img/related_links_example.png)|![metadata_example.png]({{site.baseurl}}/static/img/metadata_example.png)|
+
+
+
+
+
+
