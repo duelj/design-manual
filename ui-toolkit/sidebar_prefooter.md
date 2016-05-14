@@ -21,7 +21,87 @@ The pre-footer is an alternate format to accomodate different page templates and
 |![related_posts_example.png]({{site.baseurl}}/static/img/related_posts_example.png)|![related_links_example.png]({{site.baseurl}}/static/img/related_links_example.png)|![metadata_example.png]({{site.baseurl}}/static/img/metadata_example.png)|
 
 
+<h2 id="use">Use</h2>
+
+### Related posts
+
+<div class="content-67 content-first">
+
+#### When to use
+* This molecule is used to display related content lists from elsewhere in the site -- blogs, events, news, reports, etc. -- in the sidebar/prefooter area.
+* If multiple types of content are shown they can be grouped under a minicon label.
+* A hand-selected set of items from a single type of content can also be shown.
+
+#### When to use something else
+* When the content isn’t dynamic consider related links instead.
+* When posts will be mixed with other types of content.
+</div>
+
+<div class="content-33 content-last">
+##### Templates used on
+
+[Landing page]()
+
+[Sub-landing page]()
+
+[Browse page]()
+
+[Learn page]()
+
+[Document detail]()
+
+</div>
 
 
+### Related links
 
+<div class="content-67 content-first">
+
+#### When to use
+* This is an optional atom that is used to title a grouping of similar posts within a slug
+* Useful when multiple related pages on the site need to be shown and are organized by their relatin to the pages main content.
+
+#### When to use something else
+* When all of the content are posts and can be dynamicall populated. 
+* When there are multiple posts in the same category type being used. 
+</div>
+
+<div class="content-33 content-last">
+
+##### Templates used on
+
+[Landing page]()
+
+[Sub-landing page]()
+
+[Browse page]()
+
+[Learn page]()
+
+[Document detail]()
+
+</div>
+
+### Metadata
+
+<div class="content-67 content-first">
+
+#### When to use
+* This molecule lives on Document Detail pages
+* This molecule is used to display related metadata in the sidebar for rules, notices, etc.
+
+#### When to use something else
+* When anything other than metada for a document detail page is being displayed.
+</div>
+
+<div class="content-33 content-last">
+
+##### Templates used on
+
+
+[Document detail]()
+
+</div>
+
+<h2 id="behavior">Behavior</h2>
 
