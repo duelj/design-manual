@@ -139,4 +139,45 @@ The pre-footer is an alternate format to accomodate different page templates and
 
 <h2 id="style">Style</h2>
 
+<div class="content-33 content-first">
+
+### Global
+
+* Grey well background is used for sidebar and prefooter elements. 
+* Multiple elements can be used in the sidebar/ pre footer but each should have their own slug label. However, not every sidebar element is intended on every page template. 
+</div>
+
+<div class="content-67 content-last">
+![style_global.png]({{site.baseurl}}/static/img/style_global.png)
+</div>
+
+
+<div class="content-33 content-first">
+
+### Prefooter
+* Content can be one or two columns in prefooter depending on need.
+* Content is populated in a Z-order, chonologically.
+</div>
+
+<div class="content-67 content-last">
+![style_prefooter.png]({{site.baseurl}}/static/img/style_prefooter.png)
+</div>
+
+<div class="content-33 content-first">
+
+### Mobile
+* All elements become single column.
+* Mobile  link should be used in place of normal links
+</div>
+
+
+<div class="content-67 content-last">
+![style_mobile.png]({{site.baseurl}}/static/img/style_mobile.png)
+</div>
+
+<h2 id="content-guidelines">Content Guidelines</h2>
+* Headings should be as succinct as possible, ideally ______ characters  or less.
+* Description beneath heading should also be succint, roughly ______ characters.
+* Call to action link should  ______ characters or less.
+
 
