@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ui-toolkit/sidebar_prefooter.md"
+title: Sidebar/pre footer
 category: UI toolkit
 published: true
 ---
