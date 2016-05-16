@@ -143,8 +143,8 @@ The pre-footer is an alternate format to accomodate different page templates and
 
 ### Global
 
-* Grey well background is used for sidebar and prefooter elements. 
-* Multiple elements can be used in the sidebar/ pre footer but each should have their own slug label. However, not every sidebar element is intended on every page template. 
+• Grey well background is used for sidebar and prefooter elements. 
+• Multiple elements can be used in the sidebar/ pre footer but each should have their own slug label. However, not every sidebar element is intended on every page template. 
 </div>
 
 <div class="content-67 content-last">
@@ -155,7 +155,9 @@ The pre-footer is an alternate format to accomodate different page templates and
 <div class="content-33 content-first">
 
 ### Prefooter
+
 * Content can be one or two columns in prefooter depending on need.
+
 * Content is populated in a Z-order, chonologically.
 </div>
 
@@ -166,8 +168,11 @@ The pre-footer is an alternate format to accomodate different page templates and
 <div class="content-33 content-first">
 
 ### Mobile
+
 * All elements become single column.
+
 * Mobile  link should be used in place of normal links
+
 </div>
 
 
