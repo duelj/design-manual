@@ -1,3 +1,10 @@
+---
+layout: page
+title: Amicus Breif DOcument Detail
+category: UI toolkit
+published: true
+---
+
 - [Use](#use)
 - [Behavior](#behavior)
 - [Style](#style)
