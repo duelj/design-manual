@@ -39,3 +39,29 @@ Leave paragraph and date blank
 ![amicus_item_intro.gif]({{site.baseurl}}/static/img/amicus_item_intro.gif)
 </div>
 
+<div class="content-33 content-first">
+
+### Add full width text 
+
+##### Component:
+Content > Full width text > Content 
+*Only one line of spacing in between each of these*
+
+##### Brief summary:
+*Paragraph text size; ensure no extra spaces at the top of the text
+
+##### H5 tag: 
+“Full brief”
+
+##### P: 
+Brief title (link to pdf of brief)
+
+##### *If applicable*:
+H5 tag: “Related information”
+P: Title of resource/document/webpage as url text
+</div>
+
+<div class="content-67 content-last">
+![amicus_fullwidth_text.gif]({{site.baseurl}}/static/img/amicus_fullwidth_text.gif)
+</div>
+
