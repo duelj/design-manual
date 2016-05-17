@@ -10,21 +10,26 @@ published: true
 - [Configuration](#configuration)
  {: class="toc"}
  
- #### Amicus briefs live page: 
- http://www.consumerfinance.gov/policy-compliance/amicus/briefs/
+#### Amicus briefs live page: 
+http://www.consumerfinance.gov/policy-compliance/amicus/briefs/
  
- #### Path
- Explorer > CFGov > Policy & Compliance > Amicus Program > Filed Briefs > Add child page > Document Detail Page
+#### Path
+Explorer > CFGov > Policy & Compliance > Amicus Program > Filed Briefs > Add child page > Document Detail Page
  
- <h2 id="general_content">General content</h2>
+<h2 id="general_content">General content</h2>
  
- <div class="content-33 content-first">
+<div class="content-33 content-first">
  
- ### Add Item Introduction
- <p>
+### Add Item Introduction
+<p>
+##### Component:
 Header > Item Introduction
-Category: Amicus Brief > Category
-Heading: Brief title
+
+##### Category: 
+Amicus Brief > Category
+##### Heading: 
+Brief title
+
 Leave paragraph and date blank
 </p>
 </div>
