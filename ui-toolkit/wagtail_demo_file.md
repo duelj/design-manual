@@ -21,7 +21,7 @@ Explorer > CFGov > Policy & Compliance > Amicus Program > Filed Briefs > Add chi
 <div class="content-33 content-first">
  
 ### Add Item Introduction
-<p>
+
 ##### Component:
 Header > Item Introduction
 
@@ -31,7 +31,7 @@ Amicus Brief > Category
 Brief title
 
 Leave paragraph and date blank
-</p>
+
 </div>
 
 <div class="content-67 content-last">
