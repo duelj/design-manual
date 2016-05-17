@@ -40,6 +40,8 @@ Leave paragraph and date blank
 ![amicus_item_intro.gif]({{site.baseurl}}/static/img/amicus_item_intro.gif)
 </div>
 
+---
+
 <div class="content-33 content-first">
 
 ### Add full width text 
