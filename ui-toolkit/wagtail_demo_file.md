@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Amicus Breif DOcument Detail
+title: Amicus Breif Document Detail
 category: UI toolkit
 published: true
 ---
@@ -10,5 +10,3 @@ published: true
 - [Style](#style)
 - [Content guidelines](#content-guidelines)
  {: class="toc"}
- 
- 
