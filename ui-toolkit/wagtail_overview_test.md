@@ -33,13 +33,30 @@ in order to maintain consistency of formatting among those pages.</p>
 
  
 <h2 id="modular_design">Modular design</h2>
+
+<div class="content-67 content-first">
  
- <p>The website redesign used an “atomic” design scheme (see Design Manual). Page templates were
+<p>The website redesign used an “atomic” design scheme (see Design Manual). Page templates were
 
 developed for each level of content, and each of those pages consist of modules that can be pulled 
 
 together to build the page.</p>
+</div>
 
+<div class="content-33 content-last">
+
+##### Page templates
+
+[Landing page]()
+
+[Sub landing page]()
+
+[Browse page]()
+
+[Learn page]()
+
+[Document detail page]()
+</div>
 
 <h2 id="wagtail_structure">Wagtail structure</h2>
 
