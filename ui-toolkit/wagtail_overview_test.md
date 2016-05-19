@@ -1,3 +1,10 @@
+---
+layout: page
+title: Wagtail Overview
+category: UI toolkit
+published: true
+---
+
 - [General Content](#general_content)
 - [Sidebar](#sidebar)
 - [Configuration](#configuration)
