@@ -60,12 +60,17 @@ together to build the page.</p>
 
 <h2 id="wagtail_structure">Wagtail structure</h2>
 
+<div class="content-33 content-first">
 <p>Wagtail navigational structure follows closely the site navigation: Start at CFGov, which holds editable 
 
 homepage content, and follow the “>” arrows through each section down to the most specific pages, 
 
 Document Detail pages.</p>
+</div>
 
+<div class="content-67 content-last">
+![wagtail_navigation.png]({{site.baseurl}}/static/img/wagtail_navigation.gif)
+</div>
 
 <p>Each page type has a corresponding template; to add a new page, click “+ Add child page” underneath 
 
