@@ -72,12 +72,18 @@ Document Detail pages.</p>
 ![wagtail_navigation.png]({{site.baseurl}}/static/img/wagtail_navigation.gif)
 </div>
 
+<div class="content-33 content-first">
+
 <p>Each page type has a corresponding template; to add a new page, click “+ Add child page” underneath 
 
 the page it will be linked from and choose the correct page template for that child page (see site map for 
 
 correct templates at each level).</p>
+</div>
 
+<div class="content-67 content-last">
+![wagtail_add_page.png]({{site.baseurl}}/static/img/wagtail_add_page.png)
+</div>
 
 <h2 id="entering_content">Entering content on a page</h2>
 
