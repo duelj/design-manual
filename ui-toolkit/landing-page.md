@@ -28,7 +28,7 @@ Landing page types provide an overview of a main navigation section and help use
 * The landing page template should only be used for the top- level page under each main navigation section on the site to help users navigate to the various sub-sections within the navigation vertical. *Examples:* [Data & research overview](), [Policy & compliance overview](). 
 * This template may also be used for campaign pages.
 
-#### When to use something else
+#### When other options are better
 * When a new page is needed within a navigation section, rather than at the top level.
 * When page  content includes paragraph copy or more detailed deifnitions or explanations.
 </div>
