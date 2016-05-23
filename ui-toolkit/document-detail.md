@@ -124,7 +124,6 @@ published: true
 </nomarkdown>
 
 
-<div class="content-50 content-first">
 1. Category label - minicon, H4 (2 max)
 
 2. Date - H5 Grey #75797C **(required)**
@@ -134,19 +133,16 @@ published: true
 4. Event date icon - Unique option for events, dynamic icon with 15px padding
 
 5. Post title - H3 **(required)**
-</div>
 
-<div class="content-50 content-last">
- 6. Sub-heading - H6
+6. Sub-heading - H6
 
- 7. Description - Avenir paragraph **(required)**
+7. Description - Avenir paragraph **(required)**
 
- 8. Author label - Avenir paragraph
+8. Author label - Avenir paragraph
 
- 9. Secondary link - Standard hyperlink
+9. Secondary link - Standard hyperlink
 
- 10. Topics tags - H6 Grey #75797C, 80% gold #FAAF4C dotted underline and round bullet
-</div>
+10. Topics tags - H6 Grey #75797C, 80% gold #FAAF4C dotted underline and round bullet
 
 
 
