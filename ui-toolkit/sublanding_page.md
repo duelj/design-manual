@@ -75,4 +75,37 @@ published: true
 
 <div class="content-67 content-first">
 #### Breakpoints 901+
+![sublanding_behavior_desktop.png]({{site.baseurl}}/static/img/sublanding_behavior_desktop.png)
+</div>
+
+<div class="content-33 content-last">
+#### Breakpoints 900 and less
+![sublanding_behavior_mobile.png]({{site.baseurl}}/static/img/sublanding_behavior_mobile.png)
+</div>
+
+<h2 id="content-guidelines">Content Guidelines</h2>
+
+* Page titles are sentence case and use the word “and” instead of “&”.
+* The content components should work together to create an overview of the information held within the section and how it relates back to the main navigation section. 
+* Should be written and organized in a way that aids the user in skimming and quickly navigating to lower-level pages where they’ll find the information they need.
+* Components should work together to give users clear next steps and calls to actions; give them the opportunity to decide quickly what content is relevant to them and where they should go next.
+* While full width body copy (including bulleted lists) is an option in this template, it should be used sparingly. 
+
+<h2 id="style">Style</h2>
+
+#### Area 1: Introduction
+* Choose between a hero or text introduction for this area.
+* Option for using breakout sidebar variation of the text introduction. 
+
+#### Area 2: Main content
+* Must contain at least 1 component.
+* Recommended hierarchy of components:  featured content module, [image & text]() components, [gray well](), and [half width link blobs](), [full width text](), contact information.
+* [Gray well]() component should not be used at the top of this area if the introduction area contains a hero. 
+
+#### Area 3: Sidebar
+* Must contain at least 1 component.
+* If using both static and dynamic content, preference for dynamic content to 
+appear above static content.
+
+
 
