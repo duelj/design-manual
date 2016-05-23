@@ -17,7 +17,7 @@ Landing page types provide an overview of a main navigation section and help use
 <p>Each landing page template has three basic content areas with one variation in layout:</p>
 
 <nomarkdown>
-<img src="{{site.baseurl}}/static/img/landing_top_example_2x.png)" alt="landing examples" height="100%" width="100%">
+<img src="{{site.baseurl}}/static/img/landing_top_example_2x.png" alt="landing examples" height="100%" width="100%">
 </nomarkdown>
 
 <h2 id="use">Use case</h2>
