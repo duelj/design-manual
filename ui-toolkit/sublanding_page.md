@@ -1,3 +1,10 @@
+---
+layout: page
+title: Landing page
+category: UI toolkit
+published: true
+---
+
 - [Use case](#use)
 - [Behavior](#behavior)
 - [Content guidelines](#content-guidelines)
