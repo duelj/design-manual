@@ -14,7 +14,10 @@ published: true
  <p>Browse page types provide specific topic or product overviews and information. Often these pages contain medium-length content, access to specific documents or other resources, or descriptions of action steps. Related browse pages within a specific section can be accessed via the left side sub-navigation so users can easily move around within the topic. Browse pages can have parent-child relationships to other browse pages.</p>
  
 <p>Each browse page template has four basic content areas:</p>
+
+<div class="content-50 content-first">
 ![browse_example.png]({{site.baseurl}}/static/img/browse_example.png)
+</div>
 
 <h2 id="use">Use case</h2>
 
