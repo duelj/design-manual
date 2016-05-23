@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Landing page
+title: Sublanding page
 category: UI toolkit
 published: true
 ---
