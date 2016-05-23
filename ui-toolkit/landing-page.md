@@ -5,25 +5,27 @@ category: UI toolkit
 published: true
 ---
 
-- [Use](#use)
+- [Use cases](#use)
 - [Behavior](#behavior)
 - [Style](#style)
 - [Content guidelines](#content-guidelines)
  {: class="toc"}
 
-<p>Overview of landing page template at 901 screen width or larger.</p>
+<p>
+Landing page types provide an overview of a main navigation section and help users situate themselves within the site and the subject matter. Its main function is to preview the different sub-pages within that section and help users quickly skim section topics and select the category that interests them.</p>
+
+<p>Each landing page template has three basic content areas with one variation in layout:</p>
 
 <nomarkdown>
 <img src="{{site.baseurl}}/static/img/landing_top_example_2x.png" alt="landing examples" height="100%" width="100%">
 </nomarkdown>
 
-<h2 id="use">Use</h2>
+<h2 id="use">Use cases</h2>
 
 <div class="content-67 content-first">
-<p>Landing pages provide an overview of a section and help users situate themselves within the site and the subject matter. Users should be able to quickly skim section topics and select the category that interests them.</p>
 
 #### When to use
-* The landing page template should be used for the top level page under each main navigation section on the site to help users navigate to the various sub-sections within the navigation vertical.  
+* The landing page template should only be used for the top- level page under each main navigation section on the site to help users navigate to the various sub-sections within the navigation vertical. *Examples:* [Data & research overview](), [Policy & compliance overview](). 
 * This template may also be used for campaign pages.
 
 #### When to use something else
@@ -33,6 +35,7 @@ published: true
 
 <div class="content-33 content-last">
 ##### Page components included
+<p>Within each area of the template, various components may be selected to best fit the content of the specific page being created.</p>
 
 #### Area 1
 
@@ -54,7 +57,7 @@ published: true
 
 [Related posts / Related links]()
 
-[Emain signup]()
+[Email signup]()
 </div>
 
 <h2 id="behavior">Behavior</h2>
