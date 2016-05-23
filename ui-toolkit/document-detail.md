@@ -58,13 +58,13 @@ published: true
 
 <p>Below the 901 px breakpoint, the sidebar stacks below the main content area.</p>
 
-<div class="content-67 content-first">
+<div class="content-50 content-first">
 
 #### Breakpoints 901+
 ![docdetail_behavior_desktop.png]({{site.baseurl}}/static/img/docdetail_behavior_desktop.png)
 </div>
 
-<div class="content-33 content-last">
+<div class="content-50 content-last">
 
 #### Breakpoints 900 and less
 ![docdetail_behavior_mobile.png]({{site.baseurl}}/static/img/docdetail_behavior_mobile.png)
