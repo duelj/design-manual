@@ -10,3 +10,96 @@ published: true
 - [Content guidelines](#content-guidelines)
 - [Style](#style)
  {: class="toc"}
+ 
+ <p>Browse page types provide specific topic or product overviews and information. Often these pages contain medium-length content, access to specific documents or other resources, or descriptions of action steps. Related browse pages within a specific section can be accessed via the left side sub-navigation so users can easily move around within the topic. Browse pages can have parent-child relationships to other browse pages.</p>
+ 
+<p>Each browse page template has four basic content areas:</p>
+![browse_example.png]({{site.baseurl}}/static/img/browse_example.png)
+
+<h2 id="use">Use case</h2>
+
+<div class="content-67 content-first">
+
+#### When to use
+* When adding new information to an existing topic area within one of the main navigation verticals. 
+* When introducing a sub-topic, describing action items, or listing out resources.
+* Target user is primarily in a browse mindset, interested in quickly consuming information and keeping an eye out for key phrases, so content on this page should be chunked to help them quickly find relevant information.
+
+#### When other options are better
+* When page content is a lengthy article or text.
+</div>
+
+<div class="content-33 content-last">
+##### Page components included
+<p>Within each area of the template, various components may be selected to best fit the content of the specific page being created.</p>
+
+#### Area 1
+
+[Text introduction]()
+
+[Featured content module]()
+
+#### Area 2
+
+[50/50 image & text]()
+
+[25/75 image & text]()
+
+[Contect information]()
+
+[Expandable]()
+
+[Full width module]()
+
+[Full width text]()
+
+[Gray well]()
+
+[Half width link blob]()
+
+[Table]()
+
+
+#### Area 3
+
+[Related posts / Related links]()
+
+[Email signup]()
+
+[Contact information]()
+
+#### Area 4
+*Automatically generated breadcrumb and navigation*
+</div>
+
+<h2 id="behavior">Behavior</h2>
+<p>Below the 901 px breakpoint, the sub-navigation collapses into the global navigation under a hamburger menu, as seen on the [Regulatory agenda page](http://www.consumerfinance.gov/policy-compliance/rulemaking/regulatory-agenda/). In cases where a browse page has children browse pages, the children will appear in a special expandable navigation at the top of the page, as seen on the [Implementation and guidance page](http://www.consumerfinance.gov/policy-compliance/guidance/implementation-guidance/).</p>
+
+<div class="content-67 content-first">
+#### Breakpoints 901+
+![browse_behavior_desktop.png]({{site.baseurl}}/static/img/browse_behavior_desktop.png)
+</div>
+
+<div class="content-33 content-last">
+#### Breakpoints 900 and less
+![browse_behavior_mobile.png]({{site.baseurl}}/static/img/browse_behavior_mobile.png)
+</div>
+
+<h2 id="content-guidelines">Content Guidelines</h2>
+* Page titles are sentence case and use the word “and” instead of “&”. Area 4 navigation and breadcrumbs follow same style as Mega Menu.
+* Content should be displayed in a way that allows for ease of browsing; “chunk” content in ways that makes it easy to find. 
+* Try to avoid creating superfluous paragraphs to contain url text; list urls where possible and minimize unnecessary content; this will help the user browse and find what they need faster, and helps to give visual clarity without the need to read the entire paragraph to find what they need. 
+
+<h2 id="style">Style</h2>
+
+#### Area 1: Introduction
+* Text introduction is required. 
+
+#### Area 2: Main content
+* Must contain at least 1 component.
+
+#### Area 3: Pre-footer
+* Optional.
+* If using both static and dynamic content, preference for dynamic content to appear above static content.
+
+
