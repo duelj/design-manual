@@ -36,3 +36,43 @@ published: true
 ##### Page components included
 <p>Within each area of the template, various components may be selected to best fit the content of the specific page being created.</p>
 
+#### Area 1
+
+[Hero]()
+
+[Text introduction]()(with optional breakout sidebar)
+
+#### Area 2
+
+[50/50 image & text]()
+
+[25/75 image & text]()
+
+[Featured content module]()
+
+[Full width module]()
+
+[Full width text]()
+
+[Half width link blob]()
+
+[Gray well]()
+
+[Contect information]()
+
+#### Area 3
+
+[Related posts / Related links]()
+
+[Email signup]()
+
+[Contact information]()
+</div>
+
+
+<h2 id="behavior">Behavior</h2>
+<p>Below the 901 px breakpoint, the sidebar stacks below the main content area.</p>
+
+<div class="content-67 content-first">
+#### Breakpoints 901+
+
