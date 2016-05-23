@@ -48,11 +48,7 @@ published: true
 
 [25/75 image & text]()
 
-[Contect information]()
-
 [Expandable]()
-
-[Full width module]()
 
 [Full width text]()
 
