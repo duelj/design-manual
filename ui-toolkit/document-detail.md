@@ -6,59 +6,57 @@ published: true
 ---
 
 
-- [Use](#use)
+- [Use case](#use)
 - [Behavior](#behavior)
-- [Style](#style)
 - [Content guidelines](#content-guidelines)
+- [Style](#style)
  {: class="toc"}
 
-<p>Overview of landing page template at 901 screen width or larger.</p>
+<p>Document detail page types provide summary information about a document or related group of documents. These pages help users better understand the relevancy and context of documents before deciding whether or not to download or engage further.</p>
+
+<p>Each document detail page template has three basic content areas:</p>
 
 <div class="content-50 content-first">
 ![docdetail_top_example.png]({{site.baseurl}}/static/img/docdetail_top_example.png)
 </div>
 
-<h2 id="use">Use</h2>
+<h2 id="use">Use case</h2>
 
 <div class="content-67 content-first">
-<p>Providing detailed information about a document or group of documents available for download. Use this template in order to help users understand the content, size, and freshness (!) of a document before downloading it, as well as related information that might also be of interest to them based on the topic and purpose of the given document.</p>
 
 #### When to use
-* When the primary goal of the page is to feature the download of one or more documents.  
+* When the primary goal of the page is to encourage users to download a resource or understand the context around a document. 
+* When creating a filterable list of items, document detail pages house the items within the filterable list.
+ 
 
-#### When to use something else
-* If you're just looking to provide the full text of an article or detailed content, but not specifically focused on a document for download, use the more general Learn page template.
+#### When other options are better
+* When providing the full text of an article or detailed content, but not specifically focused on a document for download, use the more general [Learn page template]().
 </div>
 
 <div class="content-33 content-last">
 ##### Page components included
+<p>Within each area of the template, various components may be selected to best fit the content of the specific page being created.</p>
 
 #### Area 1
-
-[Text introduction]()
-
 [Item introduction]()
 
 
 #### Area 2
 
 [Full width text field]()
-[Bulleted list]()
 [Table]()
 [Expandable]()
 
 #### Area 3
 
-[Related posts / Related links]()
-[Generic sidebar content]()
-[Metadata sidebar]()
-[Topic list]()
+[Metadata / Related posts / Related links]()
 [Contact information]()
+[Email sign up]()
 </div>
 
 <h2 id="behavior">Behavior</h2>
 
-<p>At breakpoints 900 and below, the sidebar stacks below the main content area as shown. </p>
+<p>Below the 901 px breakpoint, the sidebar stacks below the main content area.</p>
 
 <div class="content-67 content-first">
 
@@ -74,33 +72,47 @@ published: true
 
 ### Post Preview
 
-<p>Document detail pages are previewed on [browse pages]() via post previews. Although this element is not part of the document detail page, it conveys certain meta data about a document detail page.  It is intended to convey multi-factor information about each entry in a filterable list.</p>
+<p>When document detail pages are accessed via entries within a filterable list, information about each page is displayed on [filterable list pages]() via the post preview component.</p>
 
 <div class="content-67 content-first">
 
-#### Breakpoints 601+
-![post_preview_desktop.png]({{site.baseurl}}/static/img/post_preview_desktop.png)
+#### Post preview within a filterable list at breakpoints 601+
+![post_preview_desktop_1.png]({{site.baseurl}}/static/img/post_preview_desktop_1.png)
 </div>
 
 <div class="content-33 content-last">
 
 #### Breakpoints 600 and less
-![post_preview_mobile.png]({{site.baseurl}}/static/img/post_preview_mobile.png)
+![post_preview_mobile_1.png]({{site.baseurl}}/static/img/post_preview_mobile_1.png)
 </div>
+
+<h2 id="content-guidelines">Content guidelines</h2>
+
+### Document detail page
+
+* Page content should provide context for the document housed on the page and should help users get a sense of what will be in the document; what answers it provides, what they will learn, etc.
+* Multiple documents should only be grouped on a single page when they are different versions of a single document, or help to provide context that wouldn’t be there without the docs being shown together.
+
+
+### Post preview
+* May use up to two category labels, but strongly recommended to assign one category label per page.
+* Function of the post preview is to provide context to the user to help them decide if the document has the information they need. Language should provide a “nudge” to action. 
+* Post preview will be linked, so no need to provide “Click here to read more” direct call to action, or link to the doc detail page within the preview description text.
+* Post preview text should be limited to 2-3 sentences; 50 words. 
 
 <h2 id="style">Style</h2>
 
 ### Document detail page
 
-#### Introduction (1)
-* Use either text introduction or item introduction. Using one is required, but which one to use to dependent on the page content.
+#### Area 1: Item introduction
+* Using the item introduction is required.
 
-#### Main content area (2)
-* The motherlode resides here. At least one atomic element is required in this area.
+#### Area 2: Main content
+* At least one component is required here.
 
-#### Sidebar (3)
-* Elements listed in the sidebar area are options, though we strongly encourage the use of the metadata sidebar in order to display basic information about the document(s) housed on this page.
-* When the metadata sidebar is used, it must appear at the top of the sidebar area. At least one atomic element is required in this area.
+#### Area 3: Sidebar
+* Strongly recommend using the metadata sidebar component in order to display basic information about the document(s) housed on this page.
+* When the metadata sidebar is used, it must appear at the top of the sidebar area. 
 
 
 ### Post preview
@@ -113,50 +125,28 @@ published: true
 
 
 <div class="content-50 content-first">
-1. **Category label (required)** - minicon, H4 (up to 2)
+1. Category label - minicon, H4 (2 max)
 
-2. **Date (required)** - H5 Grey #75797C
+2. Date - H5 Grey #75797C **(required)**
 
-3. Image (thumbnail) - Basic image style 30px padding
+3. Image (thumbnail) - 30px padding
 
-4. Event date icon - unique dynamic icon 15px padding
+4. Event date icon - Unique option for events, dynamic icon with 15px padding
 
-5. Post title (required) - H3
+5. Post title - H3 **(required)**
 </div>
 
 <div class="content-50 content-last">
 6. Sub-heading - H6
 
-7. **Description (required)** - Avenir paragraph 16px
+7. Description - Avenir paragraph **(required)**
 
 8. Author label - Avenir paragraph
 
-9. Link - Hyperlink
+9. Secondary link - Standard hyperlink
 
 10. Topics tags - H6 Grey #75797C, 80% gold #FAAF4C dotted underline and round bullet
 </div>
-
-
-<h2 id="content-guidelines">Content guidelines</h2>
-
-### Document detail page
-
-#### Introduction (1)
-* Available components are [text introduction]() or [item introduction]()
-
-#### Main content (2)
-* Available components are [full width text field](), [bulleted list](), [table](), or [expandable]()
-
-#### Sidebar (3)
-* Available components are [meta data](), [related posts](), [generic sidebar content](), [topic list](),and [contact information]().
-
-
-### Post preview
-* Labels should be as succinct as possible, ideally ______ characters  or less. 
-* Headings should be as succinct as possible, ideally ______ characters  or less.
-* Description beneath heading should also be succint, roughly ______ characters.
-* Call to action link should  ______ characters or less.
-
 
 
 
