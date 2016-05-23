@@ -58,13 +58,13 @@ published: true
 
 <p>Below the 901 px breakpoint, the sidebar stacks below the main content area.</p>
 
-<div class="content-50 content-first">
+<div class="content-67 content-first">
 
 #### Breakpoints 901+
 ![docdetail_behavior_desktop.png]({{site.baseurl}}/static/img/docdetail_behavior_desktop.png)
 </div>
 
-<div class="content-50 content-last">
+<div class="content-33 content-last">
 
 #### Breakpoints 900 and less
 ![docdetail_behavior_mobile.png]({{site.baseurl}}/static/img/docdetail_behavior_mobile.png)
@@ -74,13 +74,13 @@ published: true
 
 <p>When document detail pages are accessed via entries within a filterable list, information about each page is displayed on [filterable list pages]() via the post preview component.</p>
 
-<div class="content-67 content-first">
+<div class="content-50 content-first">
 
 #### Post preview within a filterable list at breakpoints 601+
 ![post_preview_desktop_1.png]({{site.baseurl}}/static/img/post_preview_desktop_1.png)
 </div>
 
-<div class="content-33 content-last">
+<div class="content-50 content-last">
 
 #### Breakpoints 600 and less
 ![post_preview_mobile_1.png]({{site.baseurl}}/static/img/post_preview_mobile_1.png)
