@@ -137,15 +137,15 @@ published: true
 </div>
 
 <div class="content-50 content-last">
-6. Sub-heading - H6
+ 6. Sub-heading - H6
 
-7. Description - Avenir paragraph **(required)**
+ 7. Description - Avenir paragraph **(required)**
 
-8. Author label - Avenir paragraph
+ 8. Author label - Avenir paragraph
 
-9. Secondary link - Standard hyperlink
+ 9. Secondary link - Standard hyperlink
 
-10. Topics tags - H6 Grey #75797C, 80% gold #FAAF4C dotted underline and round bullet
+ 10. Topics tags - H6 Grey #75797C, 80% gold #FAAF4C dotted underline and round bullet
 </div>
 
 
