@@ -5,10 +5,10 @@ category: UI toolkit
 published: true
 ---
 
-- [Use cases](#use)
+- [Use case](#use)
 - [Behavior](#behavior)
-- [Style](#style)
 - [Content guidelines](#content-guidelines)
+- [Style](#style)
  {: class="toc"}
 
 <p>
@@ -17,10 +17,10 @@ Landing page types provide an overview of a main navigation section and help use
 <p>Each landing page template has three basic content areas with one variation in layout:</p>
 
 <nomarkdown>
-<img src="{{site.baseurl}}/static/img/landing_top_example_2x.png" alt="landing examples" height="100%" width="100%">
+<img src="{{site.baseurl}}/static/img/landing_top_example_2x.png)" alt="landing examples" height="100%" width="100%">
 </nomarkdown>
 
-<h2 id="use">Use cases</h2>
+<h2 id="use">Use case</h2>
 
 <div class="content-67 content-first">
 
@@ -62,7 +62,7 @@ Landing page types provide an overview of a main navigation section and help use
 
 <h2 id="behavior">Behavior</h2>
 
-<p>At breakpoints 900 and below, the sidebar stacks below the main content area as shown. </p>
+<p>Below the 901 px breakpoint, the sidebar stacks below the main content area.</p>
 
 <div class="content-67 content-first">
 #### Breakpoints 901+
@@ -74,25 +74,27 @@ Landing page types provide an overview of a main navigation section and help use
 ![landing_behavior_mobile_2x.png]({{site.baseurl}}/static/img/landing_behavior_mobile_2x.png)
 </div>
 
-<h2 id="style">Style</h2>
-
-#### Top of the page (1a or 1b)
-* Template requires one of two options for the top of the page: either a hero (1a) or using a text introduction (1b). With a [text introduction](), the sidebar takes the full length of the page. 
-
-#### Main content area (2)
-* This area must contain at least one page component, but we have no default preference as to which one(s). 
-* Recommended hierarchy of components from top of the page down, is [image & text]() components, [gray well](), and [half width link blobs](). 
-* [Gray well]() component should not be used as the top item within this area of the page, if the top of the page contains a hero.
-
-#### Sidebar (3)
-* This area must contain at least one page component, but we have no default preference as to which one(s). 
-* If using both static and dynamic content, preference for dynamic content to appear first.
-
-
-
 <h2 id="content-guidelines">Content Guidelines</h2>
 
-* Headings should be as succinct as possible, ideally ______ characters  or less.
-* Description beneath heading should also be succint, roughly ______ characters.
-* Call to action link should  ______ characters or less.
-* Full width body copy is not an option in this template as content should be focused on skimming and navigating.
+* Page titles are sentence case and use the word “and” instead of “&”. The Mega Menu follows a different style.
+* The content components should work together to create an overview of the information held within that section or campaign. 
+* Should be written and organized in a way that aids the user in skimming and quickly navigating to lower-level pages where they’ll find the information they need.
+* Full width body copy is not an option in this template.
+* Components should work together to give users clear next steps and calls to actions; give them the opportunity to decide quickly what content is relevant to them and where they should go next.
+
+
+<h2 id="style">Style</h2>
+
+#### Area 1: Introduction
+* Choose between a [hero]() or [text introduction]() for this area.
+
+#### Area 2: Main content
+* Must contain at least 1 component.
+* Recommended hierarchy of components:  [image & text]() components, [gray well](), and [half width link blobs]().
+* [Gray well]() component should not be used at the top of this area if the introduction area contains a hero.
+
+#### Area 3: Sidebar
+* Must contain at least 1 component.
+* If using both static and dynamic content, preference for dynamic content to appear above static content.
+
+
