@@ -61,6 +61,7 @@ published: true
 [Email signup]()
 
 [Contact information]()
+</div>
 
 
 <h2 id="behavior">Behavior</h2>
