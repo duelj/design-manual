@@ -11,24 +11,23 @@ published: true
 - [Content guidelines](#content-guidelines)
  {: class="toc"}
 
-<p>These are the various sidebar elements which can be used to highlight secondary content that is related to the main page content. They can contain calls to action, blog posts, email sign ups, contact information, etc.
-The pre-footer is an alternate format to accomodate different page templates and responsive screen widths. Templates that have secondary navigation can have pre-footers since there is not enough space for a sidebar. </p>
-
-<p>Layout variations as seen in sidebar format at the 901px and larger breakpoints.</p>
+<p>Sidebars are present across most page templates to house information related to the main content of the page. On pages with leftside sub-navigation, sidebar content may be displayed as an optional pre-footer at the bottom of the main content.
+Sidebars may can contain related posts, calls to action, metadata, email sign ups, contact information, etc. Primary layout variations as seen in basic sidebar format:
+</p>
 
 <div class="content-33 content-first">
-Realted posts
+#### Realted posts
 ![related_posts_example.png]({{site.baseurl}}/static/img/related_posts_example.png)
 </div>
 
 <div class="content-33 content-middle">
-Related links
+#### Related links
 ![related_links_example.png]({{site.baseurl}}/static/img/related_links_example.png)
 </div>
 
 <div class="content-33 content-last">
-Metadata
-![metadata_example.png]({{site.baseurl}}/static/img/metadata_example.png)|
+#### Metadata
+![metadata_example.png]({{site.baseurl}}/static/img/metadata_example.png)
 </div>
 
 <h2 id="use">Use</h2>
@@ -38,13 +37,16 @@ Metadata
 <div class="content-67 content-first">
 
 #### When to use
-* This molecule is used to display related content lists from elsewhere in the site -- blogs, events, news, reports, etc. -- in the sidebar/prefooter area.
-* If multiple types of content are shown they can be grouped under a minicon label.
-* A hand-selected set of items from a single type of content can also be shown.
+* This component is used to display lists of related content dynamically pulled from elsewhere in the site – blogs, events, and newsroom items, etc. – based on topic tag selections.
+* The CMS has options to limit and focus the related content that is displayed:
+  * Limit: Default is set to three of each types of content (blog, newsroom, events), but can be made more or less. Most common change is setting the limit to one of each type. This is helpful when tags aren’t used often so that content that is pulled in isn’t too outdated
+  * Post types: can select which of the available post types (blogs, newsroom, events) appear in the component. Most common is to de-select Events, since they may not be relevant to the audiences for certain pages
+  * Categories: For the blog post type, you can choose to have posts appear that are categorized a certain way based on the audience of the page and what will be most relevant to them. 
 
-#### When to use something else
-* When the content isn’t dynamic consider related links instead.
+#### When other options are better
+* When lists of items should not be automatically updated consider related links instead.
 * When posts will be mixed with other types of content.
+
 </div>
 
 <div class="content-33 content-last">
@@ -68,12 +70,12 @@ Metadata
 <div class="content-67 content-first">
 
 #### When to use
-* This is an optional atom that is used to title a grouping of similar posts within a slug
-* Useful when multiple related pages on the site need to be shown and are organized by their relatin to the pages main content.
+* When a specific, static piece of content and call to action needs to be displayed in the sidebar.
+* When a static list of links or specific related posts need to be displayed in the sidebar.
 
-#### When to use something else
-* When all of the content are posts and can be dynamicall populated. 
-* When there are multiple posts in the same category type being used. 
+
+#### When other options are better
+* When all of the content is posts that can be dynamically populated. 
 </div>
 
 <div class="content-33 content-last">
@@ -97,11 +99,10 @@ Metadata
 <div class="content-67 content-first">
 
 #### When to use
-* This molecule lives on Document Detail pages
-* This molecule is used to display related metadata in the sidebar for rules, notices, etc.
+* When displaying relevant metadata about a specific document or set of documents, such as for a rule, notice, or report, for users to easily reference.
 
-#### When to use something else
-* When anything other than metada for a document detail page is being displayed.
+#### When other options are better
+* When anything other than metadata for a document detail page is being displayed.
 </div>
 
 <div class="content-33 content-last">
@@ -115,7 +116,7 @@ Metadata
 
 <h2 id="behavior">Behavior</h2>
 
-<p>All variations of sidebar element move into prefooter format at screen widths less than 800px. Sidebar can house multiple sidebar elements.</p>
+<p>All variations of sidebar element move into pre-footer format at screen widths less than 901 px. The sidebar area can house multiple stacked sidebar elements.</p>
 
 <div class="content-50 content-first">
 
@@ -129,11 +130,11 @@ Metadata
 #### Sidebar 900 or less (transition to prefooter)
 
 ![behavior_sidebar_mobile.png]({{site.baseurl}}/static/img/behavior_sidebar_mobile.png)
+
 </div>
 
-* All variations of sidebar element move into prefooter format at screen widths less than 800px. Sidebar can house multiple sidebar elements.
-* Pre-footer format is used on pages that have a secondary navigation, they handle content that would typically be in a sidebar.  
-* Both sidebar and prefooter have the same mobile handling. For legibility, clickable title headers remain in the standard format on small screens. However, touch friendly link style used where possbile.
+<p>Pre-footer format is automatically used on pages that have a left side secondary navigation.
+Below 601 px width, for legibility link styling on clickable headings remains in the standard format, but mobile link style is applied where possible.</p>
 
 <div class="content-50 content-first">
 
@@ -147,15 +148,23 @@ Metadata
 ![behavior_prefooter_mobile.png]({{site.baseurl}}/static/img/behavior_prefooter_mobile.png)
 </div>
 
+
+<h2 id="content-guidelines">Content Guidelines</h2>
+* Slugs should be as succinct as possible, ideally 30 characters or less. They should be limited to one line.
+* Description beneath heading should also be succinct, limited to 3 lines max; 100 characters.
+* Call to action link should be limited to one line; 40 characters or less.
+
+
+
 <h2 id="style">Style</h2>
 
 <div class="content-33 content-first">
 
 ### Global
 
-* Grey well background is used for sidebar and prefooter elements. 
+* Background: 5% grey (#F7F7F7)
+* Multiple elements can be used in the sidebar/ pre footer but each should have their own slug label. 
 
-* Multiple elements can be used in the sidebar/ pre footer but each should have their own slug label. However, not every sidebar element is intended on every page template. 
 </div>
 
 <div class="content-67 content-last">
@@ -168,8 +177,8 @@ Metadata
 ### Prefooter
 
 * Content can be one or two columns in prefooter depending on need.
+* Content is populated in a Z-order, chronologically.
 
-* Content is populated in a Z-order, chonologically.
 
 </div>
 
@@ -182,8 +191,8 @@ Metadata
 ### Mobile
 
 * All elements become single column.
+* Mobile link style should be used in place of normal links
 
-* Mobile  link should be used in place of normal links
 
 </div>
 
@@ -192,7 +201,4 @@ Metadata
 ![style_mobile.png]({{site.baseurl}}/static/img/style_mobile.png)
 </div>
 
-<h2 id="content-guidelines">Content Guidelines</h2>
-* Headings should be as succinct as possible, ideally ______ characters  or less.
-* Description beneath heading should also be succint, roughly ______ characters.
-* Call to action link should  ______ characters or less.
+
