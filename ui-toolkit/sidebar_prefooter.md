@@ -17,17 +17,20 @@ Sidebars may can contain related posts, calls to action, metadata, email sign up
 
 <div class="content-33 content-first">
 #### Realted posts
-![related_posts_example.png]({{site.baseurl}}/static/img/related_posts_example.png)
+![related_posts_example.jpg]({{site.baseurl}}/static/img/related_posts_example.jpg)
+
 </div>
 
 <div class="content-33 content-middle">
 #### Related links
-![related_links_example.png]({{site.baseurl}}/static/img/related_links_example.png)
+![related_links_example.jpg]({{site.baseurl}}/static/img/related_links_example.jpg)
+
 </div>
 
 <div class="content-33 content-last">
 #### Metadata
-![metadata_example.png]({{site.baseurl}}/static/img/metadata_example.png)
+![metadata_example.jpg]({{site.baseurl}}/static/img/metadata_example.jpg)
+
 </div>
 
 <h2 id="use">Use</h2>
