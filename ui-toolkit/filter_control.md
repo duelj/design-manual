@@ -14,7 +14,7 @@ published: true
 <p>Overview of landing page template at 901 screen width or larger.</p>
 
 <nomarkdown>
-<img src="{{site.baseurl}}/static/img/filter_top_1.png" alt="filter control example" height="100%" width="100%">
+<img src="{{site.baseurl}}/static/img/filter_top_2.png" alt="filter control example" height="100%" width="100%">
 </nomarkdown>
 
 <h2 id="use">Use</h2>
@@ -75,5 +75,3 @@ Filters live in an expandable molecule Filter should be maximum of three columns
 * Headings and labels should be as succinct as possible, ideally ______ characters  or less.
 * Answer options beneath heading should also be succint, roughly ______ characters.
 * Call to action link should  ______ characters or less.
-
-
