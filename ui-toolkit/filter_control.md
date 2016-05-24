@@ -53,12 +53,12 @@ published: true
 
 <div class="content-50 content-first">
 #### Breakpoints 601+ (2-3 column)
-![filter_behavior_desktop.png]({{site.baseurl}}/static/img/filter_behavior_desktop.png)
+![filter_behavior_desktop_1.jpg]({{site.baseurl}}/static/img/filter_behavior_desktop_1.jpg)
 </div>
 
 <div class="content-50 content-last">
 #### Breakpoints 600 and less (1 column stacked)
-![filter_behavior_mobile.png]({{site.baseurl}}/static/img/filter_behavior_mobile.png)
+![filter_behavior_mobile_1.jpg]({{site.baseurl}}/static/img/filter_behavior_mobile_1.jpg)
 </div>
 
 <h2 id="content-guidelines">Content Guidelines</h2>
@@ -77,14 +77,9 @@ published: true
 </nomarkdown>
 
 
-* On page load filter is collapsed
-* After filter is applied it remains open, except for mobile breakpoint (< 600px) where is is collapsed after filtering to make vertical space for the notification to be viewed on screen.
+* Follow form patterns for grouping, layout, and messaging.
+* Maximum three column wide layout, options stack vertically below 601 pixels.
 * Notification messaging sits below filter and above results
-
-
-<nomarkdown>
-<img src="{{site.baseurl}}/static/img/notifications_style.png" alt="filter notifications style" height="100%" width="100%">
-</nomarkdown>
 
 
 
