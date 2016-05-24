@@ -195,13 +195,11 @@ Below 601 px width, for legibility link styling on clickable headings remains in
 
 * All elements become single column.
 * Mobile link style should be used in place of normal links
-
-
 </div>
 
 
 <div class="content-67 content-last">
-![style_mobile.png]({{site.baseurl}}/static/img/style_mobile.png)
+![style_mobile.jpg]({{site.baseurl}}/static/img/style_mobile.jpg)
 </div>
 
 
