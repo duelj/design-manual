@@ -7,8 +7,8 @@ published: true
 
 - [Use](#use)
 - [Behavior](#behavior)
-- [Style](#style)
 - [Content guidelines](#content-guidelines)
+- [Style](#style)
  {: class="toc"}
 
 <p>Sidebars are present across most page templates to house information related to the main content of the page. On pages with leftside sub-navigation, sidebar content may be displayed as an optional pre-footer at the bottom of the main content.
