@@ -16,10 +16,20 @@ The pre-footer is an alternate format to accomodate different page templates and
 
 <p>Layout variations as seen in sidebar format at the 901px and larger breakpoints.</p>
 
-|Realted posts|Related links|Metadata|
----|---|---
-|![related_posts_example.png]({{site.baseurl}}/static/img/related_posts_example.png)|![related_links_example.png]({{site.baseurl}}/static/img/related_links_example.png)|![metadata_example.png]({{site.baseurl}}/static/img/metadata_example.png)|
+<div class="content-33 content-first">
+Realted posts
+![related_posts_example.png]({{site.baseurl}}/static/img/related_posts_example.png)
+</div>
 
+<div class="content-33 content-middle">
+Related links
+![related_links_example.png]({{site.baseurl}}/static/img/related_links_example.png)
+</div>
+
+<div class="content-33 content-last">
+Metadata
+![metadata_example.png]({{site.baseurl}}/static/img/metadata_example.png)|
+</div>
 
 <h2 id="use">Use</h2>
 
@@ -186,5 +196,3 @@ The pre-footer is an alternate format to accomodate different page templates and
 * Headings should be as succinct as possible, ideally ______ characters  or less.
 * Description beneath heading should also be succint, roughly ______ characters.
 * Call to action link should  ______ characters or less.
-
-
