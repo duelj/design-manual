@@ -139,13 +139,13 @@ Below 601 px width, for legibility link styling on clickable headings remains in
 <div class="content-50 content-first">
 
 #### Preftooer 901+ (with side nav.)
-![behavior_prefooter_desktop.png]({{site.baseurl}}/static/img/behavior_prefooter_desktop.png)
+![behavior_prefooter_desktop_1.jpg]({{site.baseurl}}/static/img/behavior_prefooter_desktop_1.jpg)
 </div>
 
 <div class="content-50 content-last">
 
 #### Prefooter 600 or less
-![behavior_prefooter_mobile.png]({{site.baseurl}}/static/img/behavior_prefooter_mobile.png)
+![behavior_prefooter_mobile_1.jpg]({{site.baseurl}}/static/img/behavior_prefooter_mobile_1.jpg)
 </div>
 
 
