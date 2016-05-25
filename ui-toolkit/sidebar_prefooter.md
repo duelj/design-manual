@@ -16,7 +16,7 @@ Sidebars may can contain related posts, calls to action, metadata, email sign up
 </p>
 
 <div class="content-33 content-first">
-#### Realted posts
+#### Related posts
 ![related_posts_example.jpg]({{site.baseurl}}/static/img/related_posts_example.jpg)
 
 </div>
