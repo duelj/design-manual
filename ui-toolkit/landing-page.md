@@ -25,7 +25,7 @@ Landing page types provide an overview of a main navigation section and help use
 <div class="content-67 content-first">
 
 #### When to use
-* The landing page template should only be used for the top- level page under each main navigation section on the site to help users navigate to the various sub-sections within the navigation vertical. *Examples:* [Data & research overview](), [Policy & compliance overview](). 
+* The landing page template should only be used for the top-level page under each main navigation section on the site to help users navigate to the various sub-sections within the navigation vertical. *Examples:* [Data & research overview](), [Policy & compliance overview](). 
 * This template may also be used for campaign pages.
 
 #### When other options are better
@@ -76,11 +76,11 @@ Landing page types provide an overview of a main navigation section and help use
 
 <h2 id="content-guidelines">Content Guidelines</h2>
 
-* Page titles are sentence case and use the word “and” instead of “&”. The Mega Menu follows a different style.
-* The content components should work together to create an overview of the information held within that section or campaign. 
-* Should be written and organized in a way that aids the user in skimming and quickly navigating to lower-level pages where they’ll find the information they need.
-* Full width body copy is not an option in this template.
-* Components should work together to give users clear next steps and calls to actions; give them the opportunity to decide quickly what content is relevant to them and where they should go next.
+* Generally,  content components should work together to provide an overview of the information organized below this page or about the campaign. Give users clear next steps and calls to actions so they can quickly decide what content is relevant to them and where they should go next.
+* This page should be written and organized in a way that aids the user in skimming and quickly navigating to lower-level pages.
+* Page titles are sentence case and use the word “and” instead of “&”. (Note that navigation labels follows a different style.)
+* Email signup component should only be used on campaign landing pages. This component is not used on Landing pages.
+
 
 
 <h2 id="style">Style</h2>
@@ -96,5 +96,3 @@ Landing page types provide an overview of a main navigation section and help use
 #### Area 3: Sidebar
 * Must contain at least 1 component.
 * If using both static and dynamic content, preference for dynamic content to appear above static content.
-
-
