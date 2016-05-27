@@ -59,6 +59,8 @@ Sidebars may can contain related posts, calls to action, metadata, [email sign u
 
 [Browse page]()
 
+[Filterable list page]()
+
 [Learn page]()
 
 [Document detail]()
@@ -88,6 +90,8 @@ Sidebars may can contain related posts, calls to action, metadata, [email sign u
 [Sub-landing page]()
 
 [Browse page]()
+
+[Filterable list page]()
 
 [Learn page]()
 
