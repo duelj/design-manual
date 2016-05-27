@@ -171,6 +171,7 @@ Sidebars may can contain related posts, calls to action, metadata, [email sign u
 
 * Background: 5% grey (#F7F7F7)
 * Multiple elements can be used in the sidebar/ prefooter but each should have their own slug label. 
+* Under 600px all elements become single column. Mobile link style should be used in place of normal links at this size.
 
 </div>
 
@@ -179,29 +180,30 @@ Sidebars may can contain related posts, calls to action, metadata, [email sign u
 </div>
 
 
-<div class="content-33 content-first">
+<nomarkdown>
+<img src="{{site.baseurl}}/static/img/style_prefooter.png" alt="pre-footer style" height="100%" width="100%">
+</nomarkdown>
+
 
 ### Prefooter
 
 * Content can be one or two columns in prefooter depending on need.
 * Content is populated in a Z-order, chronologically.
 
+<div class="content-33 content-last">
+##### Component parts
 
-</div>
+[Illustration]()
 
-<div class="content-67 content-last">
-![style_prefooter.png]({{site.baseurl}}/static/img/style_prefooter.png)
+[Links]()
+
+[Minicons]()
+
+[Photography]()
+
+[Typography]()
 </div>
 
 <div class="content-33 content-first">
 
-### Mobile
 
-* All elements become single column.
-* Mobile link style should be used in place of normal links
-</div>
-
-
-<div class="content-67 content-last">
-![style_mobile.jpg]({{site.baseurl}}/static/img/style_mobile.jpg)
-</div>
