@@ -184,11 +184,12 @@ Sidebars may can contain related posts, calls to action, metadata, [email sign u
 <img src="{{site.baseurl}}/static/img/style_prefooter.png" alt="pre-footer style" height="100%" width="100%">
 </nomarkdown>
 
-
+<div class="content-67 content-first">
 ### Prefooter
 
 * Content can be one or two columns in prefooter depending on need.
 * Content is populated in a Z-order, chronologically.
+</div>
 
 <div class="content-33 content-last">
 ##### Component parts
