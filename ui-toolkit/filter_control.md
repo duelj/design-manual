@@ -63,7 +63,7 @@ published: true
 
 <h2 id="content-guidelines">Content Guidelines</h2>
 
-* Headings and labels should be as succinct as possible, ideally 10 characters or less. Do not use colon (:) or other punctuation after the header
+* Headings and labels should be as succinct as possible, ideally 10 characters or less. Do not use colon (:) or other punctuation after the header.
 * Help text in text fields should be 40 characters or less. 
 * Answer options beneath heading should also be succinct, roughly 25 characters or less.
 * Headings and answer options should be sentence case (unless specifically Proper Nouns or Titles)
