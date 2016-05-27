@@ -16,7 +16,7 @@ published: true
 <p>Each browse page template has four basic content areas:</p>
 
 <div class="content-50 content-first">
-![browse_example.png]({{site.baseurl}}/static/img/browse_example.png)
+![browse_example.jpg]({{site.baseurl}}/static/img/browse_example.jpg)
 </div>
 
 <h2 id="use">Use case</h2>
@@ -77,18 +77,19 @@ published: true
 
 <div class="content-67 content-first">
 #### Breakpoints 901+
-![browse_behavior_desktop.png]({{site.baseurl}}/static/img/browse_behavior_desktop.png)
+![browse_behavior_desktop.jpg]({{site.baseurl}}/static/img/browse_behavior_desktop.jpg)
 </div>
 
 <div class="content-33 content-last">
 #### Breakpoints 900 and less
-![browse_behavior_mobile.png]({{site.baseurl}}/static/img/browse_behavior_mobile.png)
+![browse_behavior_mobile.jpg]({{site.baseurl}}/static/img/browse_behavior_mobile.jpg)
 </div>
 
 <h2 id="content-guidelines">Content Guidelines</h2>
-* Page titles are sentence case and use the word “and” instead of “&”. Area 4 navigation and breadcrumbs follow same style as Mega Menu.
 * Content should be displayed in a way that allows for ease of browsing; “chunk” content in ways that makes it easy to find. 
+* Page titles are sentence case and use the word “and” instead of “&”. Left side sub-navigation and breadcrumb labels follow same style as the main menu.
 * Try to avoid creating superfluous paragraphs to contain url text; list urls where possible and minimize unnecessary content; this will help the user browse and find what they need faster, and helps to give visual clarity without the need to read the entire paragraph to find what they need. 
+ 
 
 <h2 id="style">Style</h2>
 
@@ -98,6 +99,6 @@ published: true
 #### Area 2: Main content
 * Must contain at least 1 component.
 
-#### Area 3: Pre-footer
+#### Area 3: Prefooter
 * Optional.
 * If using both static and dynamic content, preference for dynamic content to appear above static content.
