@@ -90,15 +90,17 @@ published: true
 
 ### Document detail page
 
-* Page content should provide context for the document housed on the page and should help users get a sense of what will be in the document; what answers it provides, what they will learn, etc.
-* Multiple documents should only be grouped on a single page when they are different versions of a single document, or help to provide context that wouldn’t be there without the docs being shown together.
+* Page content should provide context for the document housed on the page and should help users get a sense of what will be in the document before the download it; what answers it provides, what they will learn, etc.
+* Multiple documents should only be grouped on a single page when they are different versions of a single document, or provide context for one another.
+
 
 
 ### Post preview
 * May use up to two category labels, but strongly recommended to assign one category label per page.
-* Function of the post preview is to provide context to the user to help them decide if the document has the information they need. Language should provide a “nudge” to action. 
-* Post preview will be linked, so no need to provide “Click here to read more” direct call to action, or link to the doc detail page within the preview description text.
-* Post preview text should be limited to 2-3 sentences; 50 words. 
+* Function of the post preview is to provide context to the user to help them decide if the document has the information they need as they browse through a list. 
+* Post preview title will be linked, so no need to provide “Click here to read more” direct call to action, or link to the doc detail page within the preview description text.
+* Post preview description text should be limited to 2-3 sentences; 50 words. Language should provide a “nudge” to action.
+
 
 <h2 id="style">Style</h2>
 
@@ -143,6 +145,3 @@ published: true
 9. Secondary link - Standard hyperlink
 
 10. Topics tags - H6 Grey #75797C, 80% gold #FAAF4C dotted underline and round bullet
-
-
-
