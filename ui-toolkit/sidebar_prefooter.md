@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sidebar/pre footer
+title: Sidebar/prefooter
 category: UI toolkit
 published: true
 ---
