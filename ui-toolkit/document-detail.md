@@ -125,7 +125,7 @@ published: true
 <img src="{{site.baseurl}}/static/img/post_style.png" alt="post preview inputs" height="100%" width="100%">
 </nomarkdown>
 
-
+<div class="content-67 content-first">
 1. Category label - minicon, H4 (2 max)
 
 2. Date - H5 Grey #75797C **(required)**
@@ -145,3 +145,18 @@ published: true
 9. Secondary link - Standard hyperlink
 
 10. Topics tags - H6 Grey #75797C, 80% gold #FAAF4C dotted underline and round bullet
+</div>
+
+<div class="content-33 content-last">
+##### Component parts
+
+[Illustration]()
+
+[Links]()
+
+[Minicons]()
+
+[Photography]()
+
+[Typography]()
+</div>
