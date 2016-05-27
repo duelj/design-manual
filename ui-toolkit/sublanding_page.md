@@ -40,7 +40,7 @@ published: true
 
 [Hero]()
 
-[Text introduction]()(with optional breakout sidebar)
+[Text introduction]() (with optional breakout sidebar)
 
 #### Area 2
 
@@ -85,11 +85,12 @@ published: true
 
 <h2 id="content-guidelines">Content Guidelines</h2>
 
-* Page titles are sentence case and use the word “and” instead of “&”.
 * The content components should work together to create an overview of the information held within the section and how it relates back to the main navigation section. 
 * Should be written and organized in a way that aids the user in skimming and quickly navigating to lower-level pages where they’ll find the information they need.
 * Components should work together to give users clear next steps and calls to actions; give them the opportunity to decide quickly what content is relevant to them and where they should go next.
+* Page titles are sentence case and use the word “and” instead of “&”. (Note that navigation labels follows a different style.)
 * While full width body copy (including bulleted lists) is an option in this template, it should be used sparingly. 
+ 
 
 <h2 id="style">Style</h2>
 
@@ -98,7 +99,7 @@ published: true
 * Option for using breakout sidebar variation of the text introduction. 
 
 #### Area 2: Main content
-* Must contain at least 1 component.
+* Must contain at least 1 component, though the featured content module or gray well should not stand on their own.
 * Recommended hierarchy of components:  featured content module, [image & text]() components, [gray well](), and [half width link blobs](), [full width text](), contact information.
 * [Gray well]() component should not be used at the top of this area if the introduction area contains a hero. 
 
@@ -106,6 +107,3 @@ published: true
 * Must contain at least 1 component.
 * If using both static and dynamic content, preference for dynamic content to 
 appear above static content.
-
-
-
