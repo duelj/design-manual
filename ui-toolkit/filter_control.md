@@ -45,7 +45,7 @@ published: true
 
 <h2 id="behavior">Behavior</h2>
 
-<p>Filters live in an expandable style element allowing controls  to be hidden when not in use/needed.</p>
+<p>Filters live in an [expandable](http://cfpb.github.io/design-manual/ui-toolkit/expandables.html) style element allowing controls  to be hidden when not in use/needed.</p>
 
 <p>On page load, the filter is collapsed by default. After filter is applied it remains open, except for mobile breakpoint (< 601 px) where is is collapsed after filtering to make vertical space for the notification to be viewed on screen.</p>
 
@@ -63,11 +63,12 @@ published: true
 
 <h2 id="content-guidelines">Content Guidelines</h2>
 
-* Headings and labels should be as succinct as possible, ideally 10 characters or less.
-* Do not use colon (:) or other punctuation after the header
-* Help text in text fields should be 40 characters or less. More than 40 characters and it will be cut off at mobile size. 
+* Headings and labels should be as succinct as possible, ideally 10 characters or less. Do not use colon (:) or other punctuation after the header
+* Help text in text fields should be 40 characters or less. 
 * Answer options beneath heading should also be succinct, roughly 25 characters or less.
-* Headings and answer options should be sentence case (unless specifically Proper Nouns our Titles)
+* Headings and answer options should be sentence case (unless specifically Proper Nouns or Titles)
+ 
+
 
 
 <h2 id="style">Style</h2>
@@ -77,10 +78,6 @@ published: true
 </nomarkdown>
 
 
-* Follow form patterns for grouping, layout, and messaging.
+* Follow [form](http://cfpb.github.io/design-manual/ui-toolkit/form-fields.html) patterns for grouping, layout, and messaging.
 * Maximum three column wide layout, options stack vertically below 601 pixels.
 * Notification messaging sits below filter and above results
-
-
-
-
