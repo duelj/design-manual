@@ -40,7 +40,6 @@ published: true
 
 [Text introduction]()
 
-[Featured content module]()
 
 #### Area 2
 
@@ -49,6 +48,8 @@ published: true
 [25/75 image & text]()
 
 [Expandable]()
+
+[Featured content module]()
 
 [Full width text]()
 
@@ -68,7 +69,7 @@ published: true
 [Contact information]()
 
 #### Area 4
-*Automatically generated breadcrumb and navigation*
+*Automatically generated breadcrumb and left side sub-navigation*
 </div>
 
 <h2 id="behavior">Behavior</h2>
@@ -100,5 +101,3 @@ published: true
 #### Area 3: Pre-footer
 * Optional.
 * If using both static and dynamic content, preference for dynamic content to appear above static content.
-
-
