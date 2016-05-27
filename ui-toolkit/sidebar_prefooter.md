@@ -53,6 +53,16 @@ Sidebars may can contain related posts, calls to action, metadata, [email sign u
 <div class="content-33 content-last">
 ##### Used on all templates
 
+[Landing page]()
+
+[Sub-landing page]()
+
+[Browse page]()
+
+[Learn page]()
+
+[Document detail]()
+
 </div>
 
 
@@ -71,7 +81,7 @@ Sidebars may can contain related posts, calls to action, metadata, [email sign u
 
 <div class="content-33 content-last">
 
-##### Templates used on
+##### Used on all templates
 
 [Landing page]()
 
