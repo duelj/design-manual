@@ -11,12 +11,10 @@ published: true
 - [Style](#style)
  {: class="toc"}
  
-<p>Learn page types provide focused, detailed information about a specific topic to users. These pages may contain lengthy text passages or interactive content that requires more engagement from the user.</p>
+<p>Learn page types provide focused, detailed information about a specific topic to users. These pages may contain lengthy text passages or interactive content that require more engagement from the user. Generally, this should be the page template used for most new information and content; other higher-level page templates are mostly aimed at navigating users to the right Learn page.</p>
 <p>Each learn page template has three basic content areas:</p>
 
 ![learn_example.png]({{site.baseurl}}/static/img/learn_example.png)
-
-<p>Engage and understand. Provide specific, detailed, focused information to user. This should be for the most engaged users -- ones willing to read a bit more or looking for specific information. Use for individual blog posts, speeches, press releases etc, as well as explanations of a topic. These pages will be how most new information and content is published; other higher-level page templates are mostly aimed at navigating users to the right Learn page. The related content sidebar provides users horizontal navigation options so these pages don't feel like a dead end.</p>
 
 <h2 id="use">Use case</h2>
 
@@ -77,7 +75,14 @@ published: true
 ![learn_behavior_mobile.png]({{site.baseurl}}/static/img/learn_behavior_mobile.png)
 </div>
 
+<h2 id="content-guidelines">Content guidelines</h2>
+* The content on these pages should be centered around conveying one single idea, topic, or call to action. This is where the bulk of our content can be found.
+* Users will likely be spending more time on these page types than others since they will hold more content. Consider ways to visually break up the content to organize it and make it easier for users to skim to find the specific content they’re looking for.
+ * Use sub-headers to chunk sections of content
+ * Break up long paragraphs into shorter ones
+ * Use bulleted lists 
+
+
 <h2 id="style">Style</h2>
 * Requirements: At least one component in each main content area.
-* Choose either a text introduction or item introduction depending on whether the template is being used to house an article or post. 
-
+* Choose either a [text introduction]() or [item introduction]() depending on whether the template is being used to house an article or post.
