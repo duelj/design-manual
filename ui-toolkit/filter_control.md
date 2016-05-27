@@ -77,7 +77,22 @@ published: true
 <img src="{{site.baseurl}}/static/img/filter_style_1.png" alt="filter style" height="100%" width="100%">
 </nomarkdown>
 
-
+<div class="content-67 content-first">
 * Follow [form](http://cfpb.github.io/design-manual/ui-toolkit/form-fields.html) patterns for grouping, layout, and messaging.
 * Maximum three column wide layout, options stack vertically below 601 pixels.
 * Notification messaging sits below filter and above results
+</div>
+
+
+<div class="content-33 content-last">
+
+##### Component parts
+
+[Buttons]()
+
+[Expandable]()
+
+[Form Fields]()
+
+[Typography]()
+</div>
