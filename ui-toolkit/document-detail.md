@@ -12,7 +12,7 @@ published: true
 - [Style](#style)
  {: class="toc"}
 
-<p>Document detail page types provide summary information about a document or related group of documents. These pages help users better understand the relevancy and context of documents before deciding whether or not to download or engage further.</p>
+<p class="lead-in">Document detail page types provide summary information about a document or related group of documents. These pages help users better understand the relevancy and context of documents before deciding whether or not to download or engage further.</p>
 
 <p>Each document detail page template has three basic content areas:</p>
 
@@ -44,13 +44,17 @@ published: true
 #### Area 2
 
 [Full width text field]()
+
 [Table]()
+
 [Expandable]()
 
 #### Area 3
 
 [Metadata / Related posts / Related links]()
+
 [Contact information]()
+
 [Email sign up]()
 </div>
 
@@ -100,6 +104,7 @@ published: true
 * Function of the post preview is to provide context to the user to help them decide if the document has the information they need as they browse through a list. 
 * Post preview title will be linked, so no need to provide “Click here to read more” direct call to action, or link to the doc detail page within the preview description text.
 * Post preview description text should be limited to 2-3 sentences; 50 words. Language should provide a “nudge” to action.
+
 
 
 <h2 id="style">Style</h2>
